@@ -146,8 +146,9 @@ function AutoclickUpgrade3() {
         AutoclickIncrease += 10;
     }
 }
-
+/*
 function cheats() {
     NumberOfCookies = 1000000000;
 }
 cheats();
+*/
